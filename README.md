@@ -1,7 +1,7 @@
 # 🌿Sustainability-Rating-System
 
 # 📌 What It Is
-This project is a data-driven solution designed to evaluate and track the sustainability performance of suppliers. Developed collaboratively with a team of five, the system aligns with UN Sustainable Development Goals (SDG 12: Responsible Consumption and Production, and SDG 13: Climate Action) to promote more transparent and accountable supply chains.
+This project is a data-driven solution designed to evaluate and track the sustainability performance of suppliers. Developed collaboratively with a team of five, the system aligns with ##UN Sustainable Development Goals## (SDG 12: Responsible Consumption and Production, and SDG 13: Climate Action) to promote more transparent and accountable supply chains.
 
 # 🎯 Project Aim
 To build a scalable database system that helps organizations assess supplier practices around carbon emissions, waste management, and sustainable packaging. Our goal is to empower businesses to make environmentally responsible decisions based on clear, actionable data.
